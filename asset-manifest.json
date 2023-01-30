@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.eb918101.css",
-    "main.js": "/react-portfolio/static/js/main.590e7df8.js",
-    "static/media/resumeBuilder.png": "/react-portfolio/static/media/resumeBuilder.4be2b03c9adc83c6f313.png",
-    "static/media/installNode.jpg": "/react-portfolio/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
-    "static/media/codesync.png": "/react-portfolio/static/media/codesync.354d7bd881380495d2f3.png",
-    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/mongodb.svg": "/react-portfolio/static/media/mongodb.d5a9f33e37cd72ecff0d61eea1650d1e.svg",
-    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/nodejs.svg": "/react-portfolio/static/media/nodejs.3dc364b8e9beb3561620274aea4f0844.svg",
-    "static/media/java.svg": "/react-portfolio/static/media/java.83165dfb2f5a7657ce4c73e0ba3cef32.svg",
-    "static/media/python.svg": "/react-portfolio/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
-    "static/media/git.svg": "/react-portfolio/static/media/git.fd381642a8b14fec88b8d6df1ff25220.svg",
-    "index.html": "/react-portfolio/index.html",
-    "main.eb918101.css.map": "/react-portfolio/static/css/main.eb918101.css.map",
-    "main.590e7df8.js.map": "/react-portfolio/static/js/main.590e7df8.js.map"
+    "main.css": "/static/css/main.eb918101.css",
+    "main.js": "/static/js/main.b3827774.js",
+    "static/media/resumeBuilder.png": "/static/media/resumeBuilder.4be2b03c9adc83c6f313.png",
+    "static/media/installNode.jpg": "/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/codesync.png": "/static/media/codesync.354d7bd881380495d2f3.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.d5a9f33e37cd72ecff0d61eea1650d1e.svg",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/nodejs.svg": "/static/media/nodejs.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/java.svg": "/static/media/java.83165dfb2f5a7657ce4c73e0ba3cef32.svg",
+    "static/media/python.svg": "/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/git.svg": "/static/media/git.fd381642a8b14fec88b8d6df1ff25220.svg",
+    "index.html": "/index.html",
+    "main.eb918101.css.map": "/static/css/main.eb918101.css.map",
+    "main.b3827774.js.map": "/static/js/main.b3827774.js.map"
   },
   "entrypoints": [
     "static/css/main.eb918101.css",
-    "static/js/main.590e7df8.js"
+    "static/js/main.b3827774.js"
   ]
 }

@@ -13,7 +13,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://www.linkedin.com/in/tarun-joshi26/",
-      style: "rounded-tr-md",
+      style: "rounded-tr-md bg-blue-600",
     },
     {
       id: 2,
@@ -23,6 +23,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://github.com/mrhacker26",
+      style: "bg-[#333333]",
     },
     {
       id: 3,
@@ -32,6 +33,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "mailto:tjocz26@gmail.com",
+      style: "bg-[#6fc2b0]",
     },
     {
       id: 4,
@@ -41,7 +43,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "/Resume_TARUN_JOSHI_CGC_MCA.pdf",
-      style: "rounded-br-md",
+      style: "rounded-br-md bg-[#565f69]",
       download: true,
     },
   ];
@@ -53,7 +55,7 @@ const SocialLinks = () => {
           <li
             key={id}
             className={
-              "flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 bg-gray-500" +
+              "flex justify-between items-center w-[160px] h-[60px] px-4 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300" +
               " " +
               style
             }

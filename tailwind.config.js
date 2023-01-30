@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      sign: ["Great Vibes"]
+      sign: ["Great Vibes"],
+      tarun: ["'Unbounded', cursive"]
     },
   },
   plugins: [],

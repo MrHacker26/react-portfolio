@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.eb918101.css",
-    "main.js": "/react-portfolio/static/js/main.590e7df8.js",
+    "main.js": "/react-portfolio/static/js/main.4079070c.js",
     "static/media/resumeBuilder.png": "/react-portfolio/static/media/resumeBuilder.4be2b03c9adc83c6f313.png",
-    "static/media/installNode.jpg": "/react-portfolio/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/NetscapeToJSONConverter.png": "/react-portfolio/static/media/NetscapeToJSONConverter.026654df7af908ccfb28.png",
+    "static/media/TODOBotJava.png": "/react-portfolio/static/media/TODOBotJava.a5ef0a1c53a6fc1339c7.png",
     "static/media/codesync.png": "/react-portfolio/static/media/codesync.354d7bd881380495d2f3.png",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
@@ -18,10 +19,10 @@
     "static/media/git.svg": "/react-portfolio/static/media/git.fd381642a8b14fec88b8d6df1ff25220.svg",
     "index.html": "/react-portfolio/index.html",
     "main.eb918101.css.map": "/react-portfolio/static/css/main.eb918101.css.map",
-    "main.590e7df8.js.map": "/react-portfolio/static/js/main.590e7df8.js.map"
+    "main.4079070c.js.map": "/react-portfolio/static/js/main.4079070c.js.map"
   },
   "entrypoints": [
     "static/css/main.eb918101.css",
-    "static/js/main.590e7df8.js"
+    "static/js/main.4079070c.js"
   ]
 }

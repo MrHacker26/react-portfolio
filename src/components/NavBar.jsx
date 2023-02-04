@@ -29,9 +29,9 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed z-50">
       <div>
-        <h1 className="font-tarun ml-2 text-3xl text-gray-300 uppercase tracking-widest"><span className="text-red-500">&lt;</span> Tarun <span className="text-red-500">/&gt;</span></h1>
+        <h1 className="z-50 font-tarun ml-2 text-3xl text-gray-300 uppercase tracking-widest"><span className="text-red-500">&lt;</span> Tarun <span className="text-red-500">/&gt;</span></h1>
       </div>
 
       <ul className="hidden md:flex">

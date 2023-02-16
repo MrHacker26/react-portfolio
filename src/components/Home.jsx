@@ -43,8 +43,8 @@ const Home = () => {
 
           <p className="text-gray-300 py-4 pt-8 max-w-lg">
             A passionate Full Stack Web Developer from India. I have 3 years of
-            experience building and desgining software. Currently, I love to
-            work on web application using technologies like React, Tailwind CSS,
+            experience building and designing software. Currently, I love to
+            work on web applications using technologies like React, Tailwind CSS,
             and Node JS.
           </p>
 

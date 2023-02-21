@@ -15,14 +15,14 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-10 text-gray-300">
+        <p className="mt-10 text-gray-300">
           I’m a final year MCA student at Chandigarh Group of Colleges, Landran,
           Mohali.
         </p>
 
         <br />
 
-        <p className="text-xl text-gray-300">
+        <p className="text-gray-300">
           Throughout my academic experiences, I have developed a solid
           understanding of programming languages and technologies including
           Python, Core Java, HTML, CSS, TailwindCSS, JavaScript, ReactJS,

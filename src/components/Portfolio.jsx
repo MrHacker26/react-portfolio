@@ -1,5 +1,7 @@
 import React from "react";
 import codesync from "../assets/portfolio/codesync.png";
+import urlShortner from '../assets/portfolio/UrlShortner.png'
+import syschecker from '../assets/portfolio/SysChecker.png'
 import resumeBuilder from "../assets/portfolio/resumeBuilder.png";
 import NetscapeToJSONConverter from "../assets/portfolio/NetscapeToJSONConverter.png";
 import TodoBot from "../assets/portfolio/TODOBotJava.png";
@@ -23,13 +25,27 @@ const Portfolio = () => {
     },
     {
       id: 3,
+      src: urlShortner,
+      name: "urlShortner",
+      href: "https://github.com/MrHacker26/urlShortner",
+      hrefLive: "https://url-shortner-tarun.vercel.app/",
+    },
+    {
+      id: 4,
+      src: syschecker,
+      name: "syschecker",
+      href: "https://github.com/MrHacker26/syschecker",
+      hrefLive: "https://syschecker.vercel.app/",
+    },
+    {
+      id: 5,
       src: NetscapeToJSONConverter,
       name: "NetscapeToJSONConverter",
       href: "https://github.com/MrHacker26/netscapetojson",
       hrefLive: "https://github.com/MrHacker26/netscapetojson",
     },
     {
-      id: 4,
+      id: 6,
       src: TodoBot,
       name: "Telegram TODO Bot",
       href: "https://github.com/MrHacker26/todo-bot-telegram-java",
